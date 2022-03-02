@@ -1,0 +1,17 @@
+Microsoft Windows [Version 10.0.22000.493]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\della>cd ..
+
+C:\Users>cd ..
+
+C:\>cd xampp
+
+C:\xampp>cd htdocs
+
+C:\xampp\htdocs>cd wp2
+
+C:\xampp\htdocs\wp2>php 20090050_Tugas1.php
+NIM   : 20090050
+Nama  : Della Savina
+Kelas : 4B
